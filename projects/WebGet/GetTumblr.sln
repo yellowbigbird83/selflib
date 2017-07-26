@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetTumblr", "WebGet\GetTumblr.csproj", "{51FCF658-5C13-40DF-9782-ED558B150862}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetTumblr_csharp", "WebGetC#\GetTumblr_csharp.csproj", "{51FCF658-5C13-40DF-9782-ED558B150862}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
